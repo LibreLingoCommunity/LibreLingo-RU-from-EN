@@ -1,0 +1,39 @@
+Skill:
+  Name: Описание себя
+  Id: 18
+
+New words: []
+
+Phrases:
+  - Phrase: Привет, меня зовут Игорь, и мне 30 лет.
+    Translation: Hello, my name is Igor and I am 30 years old.
+  - Phrase: В моей семье пять человек.
+    Translation: In my family there are five people.
+  - Phrase: У меня есть моя мама и мой папа и две сестры.
+    Translation: I have my mom and dad and two sisters.
+  - Phrase: У моего друга Бориса в семье не так много людей.
+    Translation: My friend Boris doesn't have many people in his family.
+  - Phrase: В его семье всего два человека.
+    Translation: In his family, there are only two people.
+  - Phrase: В моей семье нет собак, а в семье у Бориса – одна.
+    Translation: In my family there are no dogs, but in Boris's family there is one.
+
+Mini-dictionary:
+  English -> Russian:
+    family: семья
+    mom: мама
+    mother: мама
+    dad: папа
+    father: папа
+    sisters: сёстры
+    brothers: братья
+    friend: друг
+    dog: собака
+  Russian -> English:
+    семья: family
+    мама: mom, mother
+    папа: dad, father
+    сёстры: sisters
+    братья: brothers
+    друг: friend
+    собака: dog

@@ -1,0 +1,33 @@
+Skill:
+  Name: Числа (0 - 10)
+  Id: 18
+
+New words: []
+
+Phrases:
+  - Phrase: У меня пять книг.
+    Translation: I have five books.
+  - Phrase: Вот две кошки.
+    Translation: Here are two cats.
+  - Phrase: На столе три ручки.
+    Translation: There are three pens on the table.
+  - Phrase: Сколько стоит десять столов?
+    Translation: How much do ten tables cost?
+  - Phrase: В классе ноль учеников.
+    Translation: There are zero students in the classroom.
+  - Phrase: У неё одна ручка.
+    Translation: She has one pen.
+  - Phrase: Они видят четыре стола.
+    Translation: They see four tables.
+
+Mini-dictionary:
+  English -> Russian:
+    tables: столы
+    cats: кошки
+    books: книги
+    pens: ручки
+  Russian -> English:
+    столы: tables
+    кошки: cats
+    книги: books
+    ручки: pens

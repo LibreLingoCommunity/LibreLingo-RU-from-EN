@@ -1,0 +1,71 @@
+Skill:
+  Name: Предпочтения
+  Id: 23
+
+New words: []
+
+Phrases:
+  - Phrase: Ты любишь чай?
+    Alternative versions:
+      - А ты любишь чай?
+    Translation: Do you like tea?
+  - Phrase: Я люблю пельмени.
+    Alternative versions:
+      - А я люблю пельмени.
+    Translation: I like pelmeni.
+  - Phrase: Я люблю водку.
+    Alternative versions:
+      - А я люблю водку.
+    Translation: I like vodka.
+  - Phrase: Я не люблю сок.
+    Alternative versions:
+      - А я не люблю сок.
+    Translation: I don't like juice.
+  - Phrase: Он не ест рыбу.
+    Alternative versions:
+      - Не ест рыбу.
+    Translation: He doesn't eat fish.
+  - Phrase: Я пью водку.
+    Alternative versions:
+      - Пью водку.
+    Translation: I drink vodka.
+  - Phrase: Анна не ест пельмени.
+    Translation: Anna doesn't eat pelmeni.
+  - Phrase: Чай, пожалуйста!
+    Translation: A tea please!
+  - Phrase: Ты любишь водку?
+    Translation: Do you like vodka?
+  - Phrase: Тебе не нравится хлеб?
+    Translation: Don't you like bread?
+    Alternative translations:
+      - You don't like bread?
+
+Mini-dictionary:
+  English -> Russian:
+    do:
+      - делает
+      - делаю
+      - делаешь
+      - делаем
+    don't: "не"
+    doesn't: "не"
+    a:
+      - один
+    one:
+      - один
+      - одна
+      - одно
+  Russian -> English:
+    чай: tea
+    водка: vodka
+    сок: juice
+    любить: like
+    есть: eat
+    пить: drink
+    пожалуйста: please
+    ты: you
+    я: I
+    он: he
+    она: she
+    не: not
+    хлеб: bread

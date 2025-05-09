@@ -1,0 +1,55 @@
+Skill:
+  Name: Еда
+  Id: 20
+  Thumbnails:
+    - hleb1
+    - moloko2
+    - pasta3
+
+New words: []
+
+Phrases:
+  - Phrase: Я люблю хлеб.
+    Translation: I love bread.
+
+  - Phrase: Он пьет молоко.
+    Translation: He drinks milk.
+
+  - Phrase: Она ест суп.
+    Translation: She eats soup.
+
+  - Phrase: Мы едим рыбу.
+    Translation: We eat fish.
+    Alternative versions:
+      - Мы кушаем рыбу.
+    Alternative translations:
+      - We're eating fish.
+
+Mini-dictionary:
+  English -> Russian:
+    - bread: хлеб
+    - milk: молоко
+    - soup: суп
+    - fish: рыба
+    - I: я
+    - love: любить
+    - he: он
+    - drinks: пьет
+    - she: она
+    - eats: есть
+    - we: мы
+    - eat: есть
+
+  Russian -> English:
+    - хлеб: bread
+    - молоко: milk
+    - суп: soup
+    - рыба: fish
+    - я: I
+    - люблю: love
+    - он: he
+    - пьет: drinks
+    - она: she
+    - есть: eats
+    - мы: we
+    - едим: eat

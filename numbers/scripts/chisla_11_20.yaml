@@ -1,0 +1,33 @@
+Skill:
+  Name: Числа (11 - 20)
+  Id: 19
+
+New words: []
+
+Phrases:
+  - Phrase: У меня одиннадцать яблок.
+    Translation: I have eleven apples.
+  - Phrase: Он съел двенадцать бананов.
+    Translation: He ate twelve bananas.
+  - Phrase: На столе тринадцать апельсинов.
+    Translation: There are thirteen oranges on the table.
+  - Phrase: Сколько стоят двадцать груш?
+    Translation: How much do twenty pears cost?
+  - Phrase: В корзине пятнадцать яблок.
+    Translation: There are fifteen apples in the basket.
+  - Phrase: Она купила шестнадцать бананов.
+    Translation: She bought sixteen bananas.
+  - Phrase: Они видят девятнадцать апельсинов.
+    Translation: They see nineteen oranges.
+
+Mini-dictionary:
+  English -> Russian:
+    apples: яблоки
+    bananas: бананы
+    oranges: апельсины
+    pears: груши
+  Russian -> English:
+    яблоки: apples
+    бананы: bananas
+    апельсины: oranges
+    груши: pears

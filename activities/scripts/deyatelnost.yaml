@@ -1,0 +1,117 @@
+Skill:
+  Name: Деятельность
+  Id: 18
+
+New words: []
+
+Phrases:
+  - Phrase: Мы готовим ужин
+    Alternative versions:
+      - Мы готовим ужин
+    Translation: We are cooking dinner
+    Alternative translations:
+      - We're cooking dinner [cite: 1]
+
+  - Phrase: Я делаю это упражнение
+    Alternative:
+      - Я делаю это упражнение
+      - Я делаю эту тренировку
+      - Делаю это упражнение
+      - Делаю эту тренировку
+    Translation: I am doing this exercise
+    Alternative translations:
+      - I'm doing this exercise [cite: 1, 2]
+
+  - Phrase: Они играют
+    Alternative versions:
+      - Они играют
+    Translation: They are playing
+    Alternative translations:
+      - They're playing [cite: 2]
+
+  - Phrase: Ты слушаешь?
+    Alternative versions:
+      - Ты слушаешь?
+    Translation: Are you listening? [cite: 3]
+
+  - Phrase: Ты много учишься
+    Alternative versions:
+      - Ты много учишься
+    Translation: You are learning a lot
+    Alternative translations:
+      - You're learning a lot [cite: 4]
+
+  - Phrase: Утка обнимает кошку
+    Translation: The duck is hugging the cat [cite: 5]
+
+  - Phrase: Она плавает в море
+    Alternative versions:
+      - Она плавает в море
+    Translation: She is swimming in the sea
+    Alternative translations:
+      - She's swimming in the sea [cite: 4]
+
+  - Phrase: Он ест шоколад
+    Alternative versions:
+      - Он ест шоколад
+    Translation: He is eating chocolate
+    Alternative translations:
+      - He's eating chocolate [cite: 5]
+
+  - Phrase: Они пишут письмо?
+    Alternative versions:
+      - Они пишут письмо?
+    Translation: Are they writing a letter? [cite: 5, 6, 7]
+
+  - Phrase: Мы идем в парк
+    Alternative versions:
+      - Мы идем в парк
+    Translation: We are going to the park
+    Alternative translations:
+      - We're going to the park [cite: 7]
+
+  - Phrase: Я пою песню
+    Alternative versions:
+      - Я пою песню
+    Translation: I am singing a song
+    Alternative translations:
+      - I'm singing a song [cite: 7, 8]
+
+Mini-dictionary:
+  English -> Russian:
+    cooking: готовлю
+    dinner: ужин
+    doing: делаю
+    this: этот
+    exercise: упражнение, тренировка
+    playing: играю
+    listening: слушаю
+    learning: учусь
+    hugging: обнимаю
+    swimming: плаваю
+    eating: ем
+    chocolate: шоколад
+    writing: пишу
+    letter: письмо
+    going: иду
+    singing: пою
+    song: песня
+  Russian -> English:
+    ужин: dinner
+    готовлю: cooking
+    делаю: doing
+    этот: this
+    упражнение: exercise
+    тренировка: exercise
+    играю: playing
+    слушаю: listening
+    учусь: learning
+    обнимаю: hugging
+    плаваю: swimming
+    ем: eating
+    шоколад: chocolate
+    пишу: writing
+    письмо: letter
+    иду: going
+    пою: singing
+    песня: song
