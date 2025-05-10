@@ -1,0 +1,8 @@
+Module:
+  Name: "Numbers"
+
+Skills:
+  - chisla_0_10.yaml
+  - chisla_11_20.yaml
+  - chisla_dozens.yaml
+  - chisla_hundreds.yaml

@@ -1,0 +1,130 @@
+Skill:
+  Name: Прилагательные
+  Id: 22
+
+New words: []
+
+Phrases:
+  - Phrase: Анна высокая.
+    Translation: Anna is tall.
+  - Phrase: Борис высокий.
+    Translation: Boris is tall.
+  - Phrase: Я старый.
+    Translation: I am old.
+  - Phrase: Она старая.
+    Alternative versions:
+      - Она старая.
+      - Он старый.
+    Translation: She is old.
+  - Phrase: Он старый.
+    Alternative versions:
+      - Она старая.
+      - Он старый.
+    Translation: He is old.
+  - Phrase: Я большой.
+    Alternative versions:
+      - Я большой.
+    Translation: I am big.
+    Alternative translations:
+      - I'm big.
+  - Phrase: Она большая.
+    Alternative versions:
+      - Она большая.
+    Translation: She's big.
+    Alternative translations:
+      - She is big.
+  - Phrase: Мы большие.
+    Alternative versions:
+      - Мы большие.
+    Translation: We're big.
+    Alternative translations:
+      - We are big.
+  - Phrase: Они большие.
+    Alternative versions:
+      - Они большие.
+    Translation: They are big.
+  - Phrase: Они маленькие.
+    Alternative versions:
+      - Они маленькие.
+    Translation: They're small.
+    Alternative translations:
+      - They are small.
+  - Phrase: Кошки маленькие.
+    Translation: The cats are small.
+  - Phrase: Старики едят мясо.
+    Translation: The old ones eat meat.
+    Alternative translations:
+      - The old eat meat.
+  - Phrase: Борис не низкий.
+    Translation: Boris is not short.
+    Alternative translations:
+      - Boris isn't short.
+  - Phrase: Собака маленькая и старая.
+    Translation: The dog is small and old.
+    Alternative translations:
+      - The dog's small and old.
+  - Phrase: Парк маленький.
+    Translation: The park is small.
+    Alternative translations:
+      - The park's small.
+  - Phrase: Парк большой.
+    Translation: The park is big.
+    Alternative translations:
+      - The park's big.
+  - Phrase: Мышь маленькая.
+    Translation: The mouse is small.
+    Alternative translations:
+      - The mouse's small.
+  - Phrase: Слоны большие, мыши маленькие.
+    Translation: The elephants are big, the mice are small.
+    Alternative translations:
+      - Elephants are big, mice are small.
+  - Phrase: Большие мыши работают.
+
+Mini-dictionary:
+  English -> Russian:
+    tall:
+      - высокий
+      - высокая
+      - высокие
+    old:
+      - старый
+      - старая
+      - старые
+    she's:
+      - она
+    we're:
+      - мы
+    they're:
+      - они
+    ones:
+      - один
+    meat: мясо
+    not: "не"
+    short:
+      - низкий
+      - коро́ткий
+    elephants: слоны
+    mice: мыши
+    work:
+      - работают
+      - работаю
+  Russian -> English:
+    высокий: tall
+    высокая: tall
+    высокие: tall
+    старый: old
+    старая: old
+    старые: old
+    она: she
+    мы: we
+    они: they
+    один: one
+    мясо: meat
+    не: not
+    низкий: short
+    коро́ткий: short
+    слоны: elephants
+    мыши: mice
+    работают: work
+    работаю: work

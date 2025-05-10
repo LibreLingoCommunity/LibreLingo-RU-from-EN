@@ -1,0 +1,33 @@
+Skill:
+  Name: Числа десятки
+  Id: 20
+
+New words: []
+
+Phrases:
+  - Phrase: Двадцать рублей лежат на столе.
+    Translation: Twenty rubles are on the table.
+  - Phrase: У меня тридцать тетрадей.
+    Translation: I have thirty notebooks.
+  - Phrase: Он купил сорок карандашей.
+    Translation: He bought forty pencils.
+  - Phrase: Сколько стоят пятьдесят стаканов?
+    Translation: How much do fifty glasses cost?
+  - Phrase: В коробке шестьдесят рублей.
+    Translation: There are sixty rubles in the box.
+  - Phrase: Она видит семьдесят тетрадей.
+    Translation: She sees seventy notebooks.
+  - Phrase: Они разбили восемьдесят стаканов.
+    Translation: They broke eighty glasses.
+
+Mini-dictionary:
+  English -> Russian:
+    rubles: рубли
+    notebooks: тетради
+    pencils: карандаши
+    glasses: стаканы
+  Russian -> English:
+    рубли: rubles
+    тетради: notebooks
+    карандаши: pencils
+    стаканы: glasses

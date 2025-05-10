@@ -1,0 +1,62 @@
+Skill:
+  Name: "Множественное число"
+  Id: 18
+  
+New words: []
+
+Phrases:
+  - Phrase:  У меня есть кошки и собаки.
+    Translation: I have cats and dogs.
+    
+  - Phrase: На столе лежат книги.
+    Translation: There are books on the table.
+    Alternative versions:
+      - Книги лежат на столе.
+    Alternative translations:
+      - The books are on the table.
+      
+  - Phrase:  Это красивые столы.
+    Translation: These are beautiful tables.
+    
+  - Phrase:  Кошки играют с собаками.
+    Translation: Cats play with dogs.
+    
+  - Phrase:  Я читаю много книг.
+    Translation: I read many books.
+    
+Mini-dictionary:
+  English -> Russian:
+    - cats: кошки
+    - dogs: собаки
+    - books: книги
+    - tables: столы
+    - I: я
+    - have: иметь
+    - and: и
+    - the: на
+    - on: в
+    - are: есть
+    - these: это
+    - beautiful: красивые
+    - play: играть
+    - with: с
+    - read: читать
+    - many: много
+    
+  Russian -> English:
+    - кошки: cats
+    - собаки: dogs
+    - книги: books
+    - столы: tables
+    - я: I
+    - иметь: to have
+    - и: and
+    - на: on
+    - в: in
+    - есть: are
+    - это: these
+    - красивые: beautiful
+    - играть: to play
+    - с: with
+    - читать: to read
+    - много: many

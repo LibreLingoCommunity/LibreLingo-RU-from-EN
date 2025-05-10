@@ -1,0 +1,33 @@
+Skill:
+  Name: Числа сотни
+  Id: 21
+
+New words: []
+
+Phrases:
+  - Phrase: Сто самолётов летят в Москву.
+    Translation: One hundred airplanes are flying to Moscow.
+  - Phrase: Двести поездов отправляются каждый день.
+    Translation: Two hundred trains depart every day.
+  - Phrase: Триста машин стоят в пробке.
+    Translation: Three hundred cars are stuck in traffic.
+  - Phrase: Сколько стоят четыреста велосипедов?
+    Translation: How much do four hundred bicycles cost?
+  - Phrase: Пятьсот самолётов приземлились в аэропорту.
+    Translation: Five hundred airplanes landed at the airport.
+  - Phrase: Она видит шестьсот поездов.
+    Translation: She sees six hundred trains.
+  - Phrase: Они продали семьсот машин.
+    Translation: They sold seven hundred cars.
+
+Mini-dictionary:
+  English -> Russian:
+    airplanes: самолёты
+    trains: поезда
+    cars: машины
+    bicycles: велосипеды
+  Russian -> English:
+    самолёты: airplanes
+    поезда: trains
+    машины: cars
+    велосипеды: bicycles

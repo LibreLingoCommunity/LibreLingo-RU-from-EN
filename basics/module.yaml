@@ -1,0 +1,13 @@
+Module:
+  Name: "Basics"
+
+Skills:
+  - chisla.yaml
+  - zhivotnye.yaml
+  - eda.yaml
+  - odezhda.yaml
+  - priroda.yaml
+  - glagoly.yaml
+  - mnozhestvennoe_chislo.yaml
+  - glagoly_vo_mnozhestvennom_chisle.yaml
+  - professii.yaml

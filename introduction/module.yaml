@@ -1,5 +1,9 @@
 Module:
-  Name: "Introduction"
+  Name: "Введение"
 
 Skills:
-  - greetings.yaml
+  - privetstviya.yaml
+  - opisanie_sebya.yaml
+  - frazy.yaml
+  - prilagatelnye.yaml
+  - predpochteniya.yaml
