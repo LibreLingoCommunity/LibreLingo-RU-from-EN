@@ -1,9 +1,7 @@
-# This file contains generic meta-data about the course
-
 Course:
   Language:
     Name: Russian
-    IETF BCP 47: rs
+    IETF BCP 47: rus
   For speakers of:
     Name: English
     IETF BCP 47: en
@@ -11,80 +9,26 @@ Course:
     Name: Attribution-ShareAlike 4.0 International
     Short name: CC BY-SA 4.0
     Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode
-  Repository: https://github.com/LibreLingo/LibreLingo-RU-from-EN
-Special characters:
-    - "а"
-    - "б"
-    - "в"
-    - "г"
-    - "д"
-    - "е"
-    - "ё"
-    - "ж"
-    - "з"
-    - "и"
-    - "й"
-    - "к"
-    - "л"
-    - "м"
-    - "н"
-    - "о"
-    - "п"
-    - "р"
-    - "с"
-    - "т"
-    - "у"
-    - "ф"
-    - "х"
-    - "ц"
-    - "ч"
-    - "ш"
-    - "щ"
-    - "ъ"
-    - "ы"
-    - "ь"
-    - "э"
-    - "ю"
-    - "я"
-    - "А"
-    - "Б"
-    - "В"
-    - "Г"
-    - "Д"
-    - "Е"
-    - "Ё"
-    - "Ж"
-    - "З"
-    - "И"
-    - "Й"
-    - "К"
-    - "Л"
-    - "М"
-    - "Н"
-    - "О"
-    - "П"
-    - "Р"
-    - "С"
-    - "Т"
-    - "У"
-    - "Ф"
-    - "Х"
-    - "Ц"
-    - "Ч"
-    - "Ш"
-    - "Щ"
-    - "Ъ"
-    - "Ы"
-    - "Ь"
-    - "Э"
-    - "Ю"
-    - "Я"
-    
+  Repository: https://github.com/LibreLingoCommunity/LibreLingo-Isv-from-EN
+  Special characters:
+    - "ě"
+    - "š"
+    - "č"
+    - "ž"
+    - "Ł"
+
 Modules:
-  - introduction/
-  - numbers/
-  - basics/
-  - activities/
+  - Module_1_-_Very_basic_grammar_and_phrases
+  - Module_2_–_Food_and_Drinks
+  - Module_3_–_Learning_and_Languages
+  - Module_4_–_Rooms_and_stuff_at_home
+  - Module_5_–_Describing_nature_and_directions
+  - Module_6_Grammar_revision
+  - Module_7_–_Living_in_the_city_and_interactions_with_them
+  - Module_8_Numbers_and_time_of_the_day
+  - Module_9_–_Time_and_the_calendar
+  - Module_10_–_Bodies,_Clothes_talking_about_people
+
 
 Settings:
   Audio:
